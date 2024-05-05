@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\ChuyenViMaTran\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44A0D534-A7C1-472D-910E-9B778BD4DC9B}|ChuyenViMaTran\\ChuyenViMaTran.vcxproj|D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\ChuyenViMaTran\\ChuyenViMaTran\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44A0D534-A7C1-472D-910E-9B778BD4DC9B}|ChuyenViMaTran\\ChuyenViMaTran.vcxproj|solutionrelative:ChuyenViMaTran\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 39,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\ChuyenViMaTran\\ChuyenViMaTran\\Source.cpp",
+              "RelativeDocumentMoniker": "ChuyenViMaTran\\Source.cpp",
+              "ToolTip": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\ChuyenViMaTran\\ChuyenViMaTran\\Source.cpp",
+              "RelativeToolTip": "ChuyenViMaTran\\Source.cpp",
+              "ViewState": "AQIAABwAAAAAAAAAAAAswDEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-05T09:15:03.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
